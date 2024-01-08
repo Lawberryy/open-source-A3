@@ -1,7 +1,5 @@
 import average from '../src/average';
 
-import average from '../src/average';
-
 describe('average()', () => {
   it('should return NaN if the data is not an array', () => {
     const data = 'foo';
